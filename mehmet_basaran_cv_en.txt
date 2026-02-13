@@ -1,0 +1,78 @@
+МЕНМЕT BAŞARAN
+DEVOPS ENGINEER & LINUX SYSTEM ADMIN
+CONTACT
++90 5313803779
+☑mehmet94nto@gmail.com
+https://nto4.github.io/mehm
+et.basaran.github.io/
+Ankara/Turkey
+EDUCATION
+B.E., Gazi University
+Engineering Faculty,
+Computer Engineering
+GPA 2.62/4.00, 2021
+LANGUAGES
+Turkish, Native
+English, Fluent
+Over the past year, I have thrived as a DevOps engineer, drawing on my solid background in
+Linux system administration, infrastructure monitoring, and cluster management. Prior to this,
+gained three years of experience as a systems engineer and monitoring specialist, further
+deepening my expertise in backend operations.
+My key strength lies in driving efficiency and simplifying complex system management. I have
+consistently delivered in designing, deploying, and maintaining large-scale Linux environments,
+ensuring stability and performance across critical systems.
+I have led the implementation of high-availability architectures and managed robust CI/CD
+pipelines that streamline software delivery and reduce deployment risks. These efforts have
+directly supported agile development teams and enhanced product reliability.
+Passionate about operational excellence and automation, I am eager to contribute my skills to
+forward-thinking team, where I can help build resilient infrastructure and deliver impactful,
+scalable solutions.
+a
+Additionally, I have experience in developing LLM-based solutions and utilizing prompt
+engineering to automate system operations and human-system interactions, enhancing overall
+efficiency and reducing manual workload.
+WORK EXPERIENCE
+DevOps Engineer
+Sebit Information & Education Technologies Inc. 2020 Sep - Present
+Responsibilities:
+Installing and maintaining high available applications such as (Elasticsearch, Cassandra,
+Kafka, etc.).
+Writing new CI CD pipelines and maintaining old ones. (Gitlab, Jenkins, Ansible, Docker)
+Installation and maintenance of services used in the data layer, analysis of errors.
+Solving the problems experienced by the developer in the k8s environment and
+maintenance of k8s.
+Design, implementation, and follow-up of the system that will collect the metrics of the
+virtual machines, virtualization systems(k8s), and services on which all products work
+and will alarm when an anomalyoccurs.
+Prepare appropriate scripts and plugins for Zabbix and Nagios for service or metrics
+control.
+Making dissemination processes according to the protocols created for monitoring
+systems (Zabbix, Nagios, Prometheus, Alertmanager, Glowroot, etc.)
+Managing and monitoring beta, pre-prod, and prod deployments for all products with
+Jenkins and Ansible.
+VMs, services creating and configurations manually and using Ansible.
+Examination of the generated alarms and take care of that.
+System Monitoring Specialist & Devops Engineer
+Sole Proprietorship
+Responsibilities:
+2024 June - Present
+Deployment and maintenance of high-availability systems (Elasticsearch, Cassandra,
+Kafka, etc.), CI/CD pipelines (GitLab, Jenkins, Ansible, Docker), and comprehensive
+monitoring solutions (Zabbix, Nagios, Prometheus, etc.) tailored to client needs.
+Kubernetes environment support, including troubleshooting, deployment management,
+and monitoring of virtual machines, services, and systems, with customized automation
+scripts and plugins for enhanced operational efficiency.
+Aws services setup and management RDS, EC2, LB, S3 etc.
+SKILLS
+• Environments: Redhat, Debian, Docker, VMware, K8S
+Automation: Ansible, Jenkins
+Scripting: Python, Bash
+Monitoring Tools: Nagios, Zabbix, Glowroot,
+Middlewares: Nginx, Tomcat
+Databases: PostgreSQL, MySQL NoSql: Elasticsearch, Cassandra
+Queue: Kafka
+Cache: McRouter, Memcached
+Versioning: Git
+Development Experience: Basic API integrations and minor projects.
+LLM prompting
+AWS services menagement RDS,EC2,LB,S3,lambda etc.
