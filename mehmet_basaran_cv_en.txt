@@ -1,78 +1,52 @@
-МЕНМЕT BAŞARAN
-DEVOPS ENGINEER & LINUX SYSTEM ADMIN
-CONTACT
-+90 5313803779
-☑mehmet94nto@gmail.com
-https://nto4.github.io/mehm
-et.basaran.github.io/
-Ankara/Turkey
+﻿MEHMET BAŞARAN
+DevOps Engineer | Linux System Administrator | Monitoring & Observability
+Ankara, Turkey | +90 531 380 3779 | mehmet94nto@gmail.com | https://nto4.github.io/mehmet.basaran.github.io/
+
+PROFESSIONAL SUMMARY
+DevOps Engineer and Linux System Administrator with 5+ years of production DevOps and operations experience and 8 years of hands-on Linux experience. Experienced in Ubuntu, Red Hat, and Debian-based environments supporting Java and .NET Core application stacks, PostgreSQL-focused data layers, and high-availability services such as Elasticsearch, Cassandra, and Kafka. At Sebit, progressed from Monitoring Specialist to DevOps Engineer while supporting 1000+ VMs, 10+ vanilla Kubernetes clusters, and 200+ microservices. Built monitoring platforms from scratch and designed automated CI/CD deployment workflows for monolithic applications and microservices. Supported production systems serving up to 2 million active users, including a COVID-19 period with 20x user growth.
+
+CORE SKILLS
+Platforms & Environments: Ubuntu, Red Hat, Debian, VMware, Docker
+Containers & Orchestration: Vanilla Kubernetes (10+ clusters), Helm, 200+ microservices, rollouts, rollbacks, service troubleshooting
+CI/CD & Automation: Jenkins, GitLab Runner, GitLab CI/CD, reusable ci.yml templates, Ansible, Bash, Python
+Monitoring & Observability: Prometheus, Grafana, Alertmanager, Nagios, Zabbix, auto-discovery, Glowroot, Elastic APM, trace analysis
+Databases, Search & Messaging: PostgreSQL (primary), MySQL, Elasticsearch, Cassandra, Kafka, Memcached, McRouter
+Runtime, Middleware & Web: Java runtime, .NET Core runtime, Nginx, Tomcat
+Cloud: AWS EC2, RDS, Load Balancer, S3, Lambda
+Version Control: Git
+Additional: 1000+ VM environments, high availability, capacity planning, incident response, release management, production support
+
+PROFESSIONAL EXPERIENCE
+Sebit Information & Education Technologies Inc. | Ankara, Turkey
+DevOps Engineer | Sep 2022 - Present
+- Design, build, and maintain fully automated CI/CD workflows with Jenkins, GitLab Runner, GitLab CI/CD, Ansible, and Docker for monolithic applications and microservices deployed to vanilla Kubernetes.
+- Standardize reusable reference ci.yml templates so new projects can link to the pipeline, update values, and deploy through developer self-service or DevOps-managed workflows.
+- Automate deployment flows where a developer code push triggers build, container image creation, static code analysis, beta deployment, and controlled promotion to pre-production and production with QA/developer approval gates.
+- Deploy and operate 200+ microservices across 10+ vanilla Kubernetes clusters with Helm, including chart configuration, values management, rollout/rollback coordination, and service-level troubleshooting.
+- Supported production platforms serving up to 2 million active users during the COVID-19 period, when user volume grew 20x, contributing to reliability, capacity planning, resource scaling, and release readiness.
+- Operate and support 1000+ Ubuntu, Red Hat, and Debian VM environments and related services manually and through automation with Ansible, Bash, and Python.
+- Install, configure, and administer high-availability production services under load, including PostgreSQL, Elasticsearch, Cassandra, Kafka, Nginx, Tomcat, and Kubernetes-based services.
+- Operate Java and .NET Core runtime stacks in Linux-based environments, with PostgreSQL used as the primary relational database for many production workloads.
+- Manage beta, pre-production, and production deployments; support release processes; and resolve deployment issues with development teams.
+- Investigate incidents and runtime performance issues using Prometheus, Grafana, Glowroot, Elastic APM, logs, service metrics, and alert signals.
+Monitoring Specialist | Sep 2020 - Sep 2022
+- Designed and implemented monitoring infrastructure from scratch for monolithic applications, VM-based systems, and core services using Nagios and Zabbix.
+- Automated VM and service discovery, group assignment, and activation of relevant monitoring checks for newly detected infrastructure and application services.
+- Monitored infrastructure health across CPU, disk, memory, mounts, services, port listening checks, and application-specific service availability.
+- Created custom monitoring scripts and plugins for service availability, infrastructure metrics, and application health checks.
+- Expanded observability for microservices and Kubernetes environments with Prometheus, Grafana, and Alertmanager.
+- Implemented runtime and application performance visibility with Glowroot and Elastic APM, including response times, error rates, and error trace analysis.
+- Analyzed alerts, coordinated incident triage, and helped improve service visibility across virtual machines, Kubernetes, and application services.
+
+Sole Proprietorship | Remote / Turkey
+DevOps Consultant & System Monitoring Specialist | Jun 2024 - Present
+- Provide DevOps, monitoring, and infrastructure support for client systems, including HA service setup, deployment automation, and observability improvements.
+- Deploy and maintain CI/CD pipelines with GitLab, Jenkins, Ansible, Docker, Kubernetes, and Helm for application delivery workflows.
+- Support AWS service setup and management, including EC2, RDS, Load Balancer, S3, and Lambda.
+- Troubleshoot Kubernetes, Linux, service, and deployment issues; create automation scripts to reduce repetitive operational work.
+
 EDUCATION
-B.E., Gazi University
-Engineering Faculty,
-Computer Engineering
-GPA 2.62/4.00, 2021
+B.E., Computer Engineering | Gazi University, Faculty of Engineering | GPA: 2.62/4.00 | 2021
+
 LANGUAGES
-Turkish, Native
-English, Fluent
-Over the past year, I have thrived as a DevOps engineer, drawing on my solid background in
-Linux system administration, infrastructure monitoring, and cluster management. Prior to this,
-gained three years of experience as a systems engineer and monitoring specialist, further
-deepening my expertise in backend operations.
-My key strength lies in driving efficiency and simplifying complex system management. I have
-consistently delivered in designing, deploying, and maintaining large-scale Linux environments,
-ensuring stability and performance across critical systems.
-I have led the implementation of high-availability architectures and managed robust CI/CD
-pipelines that streamline software delivery and reduce deployment risks. These efforts have
-directly supported agile development teams and enhanced product reliability.
-Passionate about operational excellence and automation, I am eager to contribute my skills to
-forward-thinking team, where I can help build resilient infrastructure and deliver impactful,
-scalable solutions.
-a
-Additionally, I have experience in developing LLM-based solutions and utilizing prompt
-engineering to automate system operations and human-system interactions, enhancing overall
-efficiency and reducing manual workload.
-WORK EXPERIENCE
-DevOps Engineer
-Sebit Information & Education Technologies Inc. 2020 Sep - Present
-Responsibilities:
-Installing and maintaining high available applications such as (Elasticsearch, Cassandra,
-Kafka, etc.).
-Writing new CI CD pipelines and maintaining old ones. (Gitlab, Jenkins, Ansible, Docker)
-Installation and maintenance of services used in the data layer, analysis of errors.
-Solving the problems experienced by the developer in the k8s environment and
-maintenance of k8s.
-Design, implementation, and follow-up of the system that will collect the metrics of the
-virtual machines, virtualization systems(k8s), and services on which all products work
-and will alarm when an anomalyoccurs.
-Prepare appropriate scripts and plugins for Zabbix and Nagios for service or metrics
-control.
-Making dissemination processes according to the protocols created for monitoring
-systems (Zabbix, Nagios, Prometheus, Alertmanager, Glowroot, etc.)
-Managing and monitoring beta, pre-prod, and prod deployments for all products with
-Jenkins and Ansible.
-VMs, services creating and configurations manually and using Ansible.
-Examination of the generated alarms and take care of that.
-System Monitoring Specialist & Devops Engineer
-Sole Proprietorship
-Responsibilities:
-2024 June - Present
-Deployment and maintenance of high-availability systems (Elasticsearch, Cassandra,
-Kafka, etc.), CI/CD pipelines (GitLab, Jenkins, Ansible, Docker), and comprehensive
-monitoring solutions (Zabbix, Nagios, Prometheus, etc.) tailored to client needs.
-Kubernetes environment support, including troubleshooting, deployment management,
-and monitoring of virtual machines, services, and systems, with customized automation
-scripts and plugins for enhanced operational efficiency.
-Aws services setup and management RDS, EC2, LB, S3 etc.
-SKILLS
-• Environments: Redhat, Debian, Docker, VMware, K8S
-Automation: Ansible, Jenkins
-Scripting: Python, Bash
-Monitoring Tools: Nagios, Zabbix, Glowroot,
-Middlewares: Nginx, Tomcat
-Databases: PostgreSQL, MySQL NoSql: Elasticsearch, Cassandra
-Queue: Kafka
-Cache: McRouter, Memcached
-Versioning: Git
-Development Experience: Basic API integrations and minor projects.
-LLM prompting
-AWS services menagement RDS,EC2,LB,S3,lambda etc.
+Turkish: Native | English: Fluent
