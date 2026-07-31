@@ -46,7 +46,7 @@ Monitoring Specialist | Sep 2020 - Sep 2022
 
 Independent DevOps Consulting | Remote / Turkey
 Part-time DevOps Consultant & System Monitoring Specialist | Jun 2024 - Present
-- Provide scoped, part-time DevOps, monitoring, and infrastructure support for client systems without positioning the work as a competing full-time role.
+- Provide scoped, part-time DevOps, monitoring, and infrastructure support for client systems, focused on defined delivery, troubleshooting, and observability improvements.
 - Support HA service setup, deployment automation, observability improvements, and operational troubleshooting for Linux, Kubernetes, Docker, Helm, Jenkins, GitLab, Ansible, and Terraform-based environments.
 - Support AWS service setup and management, including EC2, RDS, Load Balancer, S3, and Lambda.
 - Create automation scripts and practical runbooks that reduce repetitive operational work and make ongoing support easier to control.
